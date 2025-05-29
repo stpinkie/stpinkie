@@ -4,7 +4,9 @@
 
 ### My name is
 
-I'm Daniel "St. Pinkie" Anthony. You can call me Daniel - or Pinkie. Whichever feels better.
+Daniel "St. Pinkie" Anthony.
+
+You can call me Daniel - or Pinkie. Whichever feels better.
 
 ### And I am
 
@@ -26,6 +28,6 @@ and the Chief of [Project SEAPonyCon](https://about.seaponycon.com).
 
 ### And also on
 
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
+[![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)](https://app.ens.domains/stpinkie.eth)
 
 StPinkie.eth // 0xfeb65CC3fe7490e71D929f37b14B516db627B877
