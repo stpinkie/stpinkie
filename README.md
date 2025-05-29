@@ -10,7 +10,7 @@ You can call me Daniel - or Pinkie. Whichever feels better.
 
 ### And I am
 
-A former award-winning broadcast journalist at [Malaysiakini](https://malaysiakini.com),
+An award-winning former broadcast journalist at [Malaysiakini](https://malaysiakini.com),
 
 The Developer Relations weirdo at [ZKcandy Foundation](https://candyfoundation.xyz),
 
