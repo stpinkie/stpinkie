@@ -12,6 +12,8 @@ You can call me Daniel - or Pinkie. Whichever feels better.
 
 An award-winning former broadcast journalist at [Malaysiakini](https://malaysiakini.com),
 
+a Devrel for [Polkadot](https://polkadot.com/) under [OpenGuild](https://openguild.wtf),
+
 The Developer Relations weirdo at [ZKcandy Foundation](https://candyfoundation.xyz),
 
 and the Chief of [Project SEAPonyCon](https://about.seaponycon.com).
@@ -25,6 +27,8 @@ and the Chief of [Project SEAPonyCon](https://about.seaponycon.com).
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/stpinkie)
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=Bluesky&logoColor=white)](https://stpinkie.bsky.social)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/StPinkie/)
+
+I'm also on [Lens Protocol](https://firefly.social/profile/lens/stpinkie) and [Farcaster](https://farcaster.xyz/stpinkie).
 
 ### And also on
 
