@@ -14,7 +14,7 @@ An award-winning former broadcast journalist at [Malaysiakini](https://malaysiak
 
 a Devrel for [Polkadot](https://polkadot.com/) under [OpenGuild](https://openguild.wtf),
 
-The Developer Relations weirdo at [ZKcandy Foundation](https://candyfoundation.xyz),
+former Developer Relations weirdo at [ZKcandy Foundation](https://candyfoundation.xyz),
 
 and the Chief of [Project SEAPonyCon](https://about.seaponycon.com).
 
