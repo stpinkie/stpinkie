@@ -12,9 +12,7 @@ You can call me Daniel - or Pinkie. Whichever feels better.
 
 An award-winning former broadcast journalist at [Malaysiakini](https://malaysiakini.com),
 
-a Devrel for [Polkadot](https://polkadot.com/) under [OpenGuild](https://openguild.wtf),
-
-former Developer Relations weirdo at [ZKcandy Foundation](https://candyfoundation.xyz),
+a former Devrel for [Polkadot](https://polkadot.com/) under [OpenGuild](https://openguild.wtf),
 
 and the Chief of [Project SEAPonyCon](https://about.seaponycon.com).
 
