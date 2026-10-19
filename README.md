@@ -26,7 +26,7 @@ and the Chief of [Project SEAPonyCon](https://about.seaponycon.com).
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=Bluesky&logoColor=white)](https://stpinkie.bsky.social)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/StPinkie/)
 
-I'm also on [Lens Protocol](https://firefly.social/profile/lens/stpinkie) and [Farcaster](https://farcaster.xyz/stpinkie).
+I'm also on the [Lens Network](https://firefly.social/profile/lens/stpinkie) and occasionally poke around [~~Farcaster~~ Network State Protocol](https://farcaster.xyz/stpinkie).
 
 ### And also on
 
