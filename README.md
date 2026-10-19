@@ -10,7 +10,7 @@ You can call me Daniel - or Pinkie. Whichever feels better.
 
 ### And I am
 
-An award-winning former broadcast journalist at [Malaysiakini](https://malaysiakini.com),
+An [award-winning](https://mpi.my/award/pemenang-hkm-2021/#:~:text=Daniel%20Jeyachristi%20Anthony) former broadcast journalist at [Malaysiakini](https://malaysiakini.com),
 
 a former Devrel for [Polkadot](https://polkadot.com/) under [OpenGuild](https://openguild.wtf),
 
